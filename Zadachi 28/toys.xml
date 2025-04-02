@@ -1,0 +1,20 @@
+<toys>
+    <toy>
+        <name>Лего</name>
+        <price>500</price>
+        <min_age>6</min_age>
+        <max_age>12</max_age>
+    </toy>
+    <toy>
+        <name>Машинка</name>
+        <price>300</price>
+        <min_age>3</min_age>
+        <max_age>10</max_age>
+    </toy>
+    <toy>
+        <name>Конструктор</name>
+        <price>200</price>
+        <min_age>5</min_age>
+        <max_age>8</max_age>
+    </toy>
+</toys>
